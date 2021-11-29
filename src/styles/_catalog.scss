@@ -2,8 +2,7 @@
   display: grid;
   gap: 48px;
   grid-template-columns: repeat(2, 200px);
-  max-width: 944px;
-  margin: 0 auto;
+  justify-content: center;
 
   &__card {
     display: flex;
